@@ -46,7 +46,7 @@ Clone the repository:
 bash
 Copy
 Edit
-git clone https://github.com/YOUR_USERNAME/emergency-risk-predictor.git
+git clone https://github.com/SYEDTHASMIYA/emergency-risk-predictor.git
 Navigate into the project directory:
 
 bash
